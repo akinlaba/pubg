@@ -1,4 +1,4 @@
-## Business Case
+## Introduction
 
 Leveraging data from [pubg hosted competition on Kaggle](https://www.kaggle.com/competitions/pubg-finish-placement-prediction), the goal of this project is to - 
 
